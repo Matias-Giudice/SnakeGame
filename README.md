@@ -2,6 +2,8 @@
 
 Versión del juego SnakeGame.
 
-Realizado con HTML, CSS y Javascript.
+Lenguajes utilizados: HTML, CSS y Javascript.
 
 Hecho PWA para ser descargado en cualquier dispositivo.
+
+Realizado por Giudice, Bulaich y Cayo. 
