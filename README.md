@@ -1,6 +1,4 @@
-# Proyecto1-SnakeGame
-
-Versión del juego SnakeGame.
+# SnakeGame
 
 Lenguajes utilizados: HTML, CSS y Javascript.
 
